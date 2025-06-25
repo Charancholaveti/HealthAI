@@ -1,6 +1,6 @@
 # 🩺 HealthAI – AI Powered Intelligent Healthcare Assistant
 
-**HealthAI** is an intelligent and lightweight AI-powered health assistant designed to help users understand symptoms, receive basic risk assessments, and generate insights in an easy-to-use interface. This tool provides early symptom analysis using rule-based logic, lightweight machine learning, and optional LLM integration (OpenAI or Hugging Face).
+**HealthAI** is an intelligent and lightweight AI-powered health assistant designed to help users understand symptoms, receive basic risk assessments, and generate insights in an easy-to-use interface. This tool provides early symptom analysis using rule-based logic, lightweight machine learning, and optional LLM integration.
 
 ---
 
@@ -21,8 +21,8 @@
 |--------------|--------------------------------------------------------|
 | Frontend     | [Streamlit](https://streamlit.io/)                     |
 | Backend      | Python                                 |
-| AI/ML        | Scikit-learn, Rule-based engine, OpenAI (optional)     |
-| Optional API | OpenAI, HuggingFace, WHO Health API                    |
+| AI/ML        | Scikit-learn, Rule-based engine     |
+| Optional API |  HuggingFace                   |
 
 ---
 # Clone the repository
