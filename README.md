@@ -1,4 +1,4 @@
-# 🩺 HealthAI – AI-Powered Symptom Checker & Health Advisor
+# 🩺 HealthAI – AI-Powered Intelligent Healthcare Assistant
 
 **HealthAI** is an intelligent and lightweight AI-powered health assistant designed to help users understand symptoms, receive basic risk assessments, and generate insights in an easy-to-use interface. This tool provides early symptom analysis using rule-based logic, lightweight machine learning, and optional LLM integration (OpenAI or Hugging Face).
 
